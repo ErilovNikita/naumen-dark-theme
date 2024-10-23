@@ -1,0 +1,28 @@
+# Системные файлы Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+ehthumbs.db
+
+# Системные файлы MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Папка кэша Spotlight
+.Spotlight-V100
+
+# Папка кэша macOS
+.Trashes
+._*
+
+# Файлы временных хранилищ MacOS
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Сетевые хранилища macOS
+.Network Trash Folder
+.TemporaryItems
+.apdisk
