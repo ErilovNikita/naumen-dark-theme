@@ -41,8 +41,8 @@ return [
 ## Фикс
 Для корректной работы черной темы и модификации стилей, которые отсутствуют в токенах темизации, необходимо использовать скрипт - который будет исправлять артефакты.
 
-- (dark-theme-fix-tampermonkey.js)[/dark-theme-fix-tampermonkey.js] - для использования через расширения Tampermonkey.
-- (dark-theme-fix.js)[/dark-theme-fix.js] - для использования внутри NSMP (Неободимо получить цифровую подпись через поддержку).
+- [dark-theme-fix-tampermonkey.js](/dark-theme-fix-tampermonkey.js) - для использования через расширения Tampermonkey.
+- [dark-theme-fix.js](/dark-theme-fix.js) - для использования внутри NSMP (Неободимо получить цифровую подпись через поддержку).
 
 ## Обзор интерфеса
 ![Карточка сотрудника](./images/employee.png)
