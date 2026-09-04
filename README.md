@@ -1,5 +1,5 @@
 # Naumen Dark Theme
-![version](https://img.shields.io/badge/NSD-4%2E15%2E5-success)  ![version](https://img.shields.io/badge/NSD-4%2E16%2E5-success) ![version](https://img.shields.io/badge/NSD-4%2E17%2E5-success) ![version](https://img.shields.io/badge/NSD-4%2E18-success)
+![version](https://img.shields.io/badge/NSD-4%2E15%2E5-success)  ![version](https://img.shields.io/badge/NSD-4%2E16%2E5-success) ![version](https://img.shields.io/badge/NSD-4%2E17%2E5-success) ![version](https://img.shields.io/badge/NSD-4%2E18-success) ![version](https://img.shields.io/badge/NSD-4%2E19-success) ![version](https://img.shields.io/badge/NSD-4%2E20-success)
 
 ## Установка
 > Все дейсвтия должны выполняться от имени суперпользователя
